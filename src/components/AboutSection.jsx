@@ -30,7 +30,7 @@ const AboutSection = () => {
               </a>
 {/* <a href="files/klkl updated.pdf" download class="download-btn">Download CV</a> */}
               <a
-                href="/data/Akshat-Srivastava-Resume.pdf"
+                href="/data/public/data/Akshat-Srivastava-Resume.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
